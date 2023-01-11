@@ -1,0 +1,15 @@
+{
+  "0.12": {
+    "sns": {
+      "downloadUrl": "https://github.com/foo/bar"
+    }
+  },
+  "0.13": {
+    "sns": {
+      "downloadUrl": "https://github.com/foo/bar"
+    },
+    "azle": {
+      "downloadUrl": "https://blah"
+    }
+  }
+}
