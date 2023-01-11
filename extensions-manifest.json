@@ -1,31 +1,31 @@
 {
   "*": {
-    "sns": {
+    "exa": {
       "downloadUrl": "https://github.com/foo/bar"
     }
   },
   "=0": {
-    "sns": {
+    "exa": {
       "downloadUrl": "https://github.com/smallstepman/dfx-extensions/releases/download/wow/exa"
     }
   },
   "=1": {
-    "sns": {
+    "exa": {
       "downloadUrl": "https://github.com/foo/bar"
     }
   },
   "> 0.11": {
-    "sns": {
+    "exa": {
       "downloadUrl": "https://github.com/foo/bar"
     }
   },
   ">0.12": {
-    "sns": {
+    "exa": {
       "downloadUrl": "https://github.com/foo/bar"
     }
   },
   ">0.13": {
-    "sns": {
+    "exa": {
       "downloadUrl": "https://github.com/foo/bar"
     },
     "azle": {
