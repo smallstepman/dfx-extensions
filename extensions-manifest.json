@@ -4,17 +4,17 @@
       "downloadUrl": "https://github.com/foo/bar"
     }
   },
-  ">= 0.11": {
+  "> 0.11": {
     "sns": {
       "downloadUrl": "https://github.com/foo/bar"
     }
   },
-  ">=0.12": {
+  ">0.12": {
     "sns": {
       "downloadUrl": "https://github.com/foo/bar"
     }
   },
-  ">=0.13": {
+  ">0.13": {
     "sns": {
       "downloadUrl": "https://github.com/foo/bar"
     },
