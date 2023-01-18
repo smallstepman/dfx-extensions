@@ -1,7 +1,15 @@
 {
-  "=0": {
-    "exa": {
-      "downloadUrl": "https://github.com/smallstepman/dfx-extensions/releases/download/wow/exa"
-    }
-  }
+  "0.13.0": [
+    	"nns": {
+        	"versions": ["0.1.0", "0.1.1"],
+    	}
+  ],
+  "0.12.2": [
+    	"nns": {
+        	"versions": ["0.1.0", "0.1.1"]
+    	}
+    	"sns": {
+        	"versions": ["0.1.0", "0.1.1"]
+    	}
+  ]
 }
