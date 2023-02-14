@@ -39,8 +39,12 @@
 						"url": "http://github.com/external-extension/releases/foo-0.1.0-linux-x86_64.tar.gz",
 						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
 					},
-					"darwin-x86_64": {
-						"url": "http://github.com/external-extension/releases/foo-0.1.0-darwin-x86_64.tar.gz",
+					"macos-x86_64": {
+						"url": "http://github.com/external-extension/releases/foo-0.1.0-macos-x86_64.tar.gz",
+						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
+					},
+					"macos-aarch64": {
+						"url": "http://github.com/external-extension/releases/foo-0.1.0-macos-aarch64.tar.gz",
 						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
 					}
 				}
@@ -68,8 +72,12 @@
 						"url": "http://github.com/external-extension/releases/foo-0.2.0-linux-x86_64.tar.gz",
 						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
 					},
-					"darwin-x86_64": {
-						"url": "http://github.com/external-extension/releases/foo-0.2.0-darwin-x86_64.tar.gz",
+					"macos-x86_64": {
+						"url": "http://github.com/external-extension/releases/foo-0.2.0-macos-x86_64.tar.gz",
+						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
+					},
+					"macos-aarch64": {
+						"url": "http://github.com/external-extension/releases/foo-0.2.0-macos-aarch64.tar.gz",
 						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
 					}
 				}
@@ -93,8 +101,12 @@
 						"url": "http://github.com/external-extension/releases/bar-0.1.0-linux-x86_64.tar.gz",
 						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
 					},
-					"darwin-x86_64": {
-						"url": "http://github.com/external-extension/releases/bar-0.1.0-darwin-x86_64.tar.gz",
+					"macos-x86_64": {
+						"url": "http://github.com/external-extension/releases/bar-0.1.0-macos-x86_64.tar.gz",
+						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
+					},
+					"macos-aarch64": {
+						"url": "http://github.com/external-extension/releases/bar-0.1.0-macos-aarch64.tar.gz",
 						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
 					}
 				}
