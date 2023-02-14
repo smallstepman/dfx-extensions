@@ -1,6 +1,6 @@
 {
 	"compatibility": {
-		"0.13": {
+		"0.13.1": {
 			"foo": {
 				"versions": ["0.1.0"]
 			}
