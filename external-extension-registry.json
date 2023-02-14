@@ -1,6 +1,9 @@
 {
 	"compatibility": {
 		"0.13.1": {
+			"exa": {
+				"versions": ["0.1.1"]
+			},
 			"foo": {
 				"versions": ["0.1.0"]
 			}
@@ -78,6 +81,31 @@
 					},
 					"macos-aarch64": {
 						"url": "http://github.com/smallstepman/dfx-extensions/releases/download/foo-0.1.0/foo-0.2.0-macos-aarch64.tar.gz",
+						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
+					}
+				}
+			}
+		},
+		"exa": {
+			"0.1.1": {
+				"homepage": "https://github.com/smallstepman/dfx-extensions/exa",
+				"authors": "external authors",
+				"summary": "A foo extension",
+				"categories": ["deployment"],
+				"keywords": ["deployment", "awesome"],
+				"description": "A longer description can go here, though long strings are a bit of a pain using JSON. ",
+				"subcommands": {},
+				"binaries": {
+					"linux-x86_64": {
+						"url": "http://github.com/smallstepman/dfx-extensions/releases/download/exa-0.1.1/exa-0.1.1-linux-x86_64.tar.gz",
+						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
+					},
+					"macos-x86_64": {
+						"url": "http://github.com/smallstepman/dfx-extensions/releases/download/exa-0.1.1/exa-0.1.1-macos-x86_64.tar.gz",
+						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
+					},
+					"macos-aarch64": {
+						"url": "http://github.com/smallstepman/dfx-extensions/releases/download/exa-0.1.1/exa-0.1.1-macos-aarch64.tar.gz",
 						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
 					}
 				}
