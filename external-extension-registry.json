@@ -36,15 +36,15 @@
 				},
 				"binaries": {
 					"linux-x86_64": {
-						"url": "http://github.com/smallstepman/dfx-extensions/releases/foo-0.1.0-linux-x86_64.tar.gz",
+						"url": "http://github.com/smallstepman/dfx-extensions/releases/download/foo-0.1.0/foo-0.1.0-linux-x86_64.tar.gz",
 						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
 					},
 					"macos-x86_64": {
-						"url": "http://github.com/smallstepman/dfx-extensions/releases/foo-0.1.0-macos-x86_64.tar.gz",
+						"url": "http://github.com/smallstepman/dfx-extensions/releases/download/foo-0.1.0/foo-0.1.0-macos-x86_64.tar.gz",
 						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
 					},
 					"macos-aarch64": {
-						"url": "http://github.com/smallstepman/dfx-extensions/releases/foo-0.1.0-macos-aarch64.tar.gz",
+						"url": "http://github.com/smallstepman/dfx-extensions/releases/download/foo-0.1.0/foo-0.1.0-macos-aarch64.tar.gz",
 						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
 					}
 				}
@@ -69,15 +69,15 @@
 				},
 				"binaries": {
 					"linux-x86_64": {
-						"url": "http://github.com/smallstepman/dfx-extensions/releases/foo-0.2.0-linux-x86_64.tar.gz",
+						"url": "http://github.com/smallstepman/dfx-extensions/releases/download/foo-0.1.0/foo-0.2.0-linux-x86_64.tar.gz",
 						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
 					},
 					"macos-x86_64": {
-						"url": "http://github.com/smallstepman/dfx-extensions/releases/foo-0.2.0-macos-x86_64.tar.gz",
+						"url": "http://github.com/smallstepman/dfx-extensions/releases/download/foo-0.1.0/foo-0.2.0-macos-x86_64.tar.gz",
 						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
 					},
 					"macos-aarch64": {
-						"url": "http://github.com/smallstepman/dfx-extensions/releases/foo-0.2.0-macos-aarch64.tar.gz",
+						"url": "http://github.com/smallstepman/dfx-extensions/releases/download/foo-0.1.0/foo-0.2.0-macos-aarch64.tar.gz",
 						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
 					}
 				}
@@ -98,15 +98,15 @@
 				},
 				"binaries": {
 					"linux-x86_64": {
-						"url": "http://github.com/smallstepman/dfx-extensions/releases/bar-0.1.0-linux-x86_64.tar.gz",
+						"url": "http://github.com/smallstepman/dfx-extensions/releases/download/foo-0.1.0/bar-0.1.0-linux-x86_64.tar.gz",
 						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
 					},
 					"macos-x86_64": {
-						"url": "http://github.com/smallstepman/dfx-extensions/releases/bar-0.1.0-macos-x86_64.tar.gz",
+						"url": "http://github.com/smallstepman/dfx-extensions/releases/download/foo-0.1.0/bar-0.1.0-macos-x86_64.tar.gz",
 						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
 					},
 					"macos-aarch64": {
-						"url": "http://github.com/smallstepman/dfx-extensions/releases/bar-0.1.0-macos-aarch64.tar.gz",
+						"url": "http://github.com/smallstepman/dfx-extensions/releases/download/foo-0.1.0/bar-0.1.0-macos-aarch64.tar.gz",
 						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
 					}
 				}
