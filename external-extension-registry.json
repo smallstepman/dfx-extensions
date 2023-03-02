@@ -98,15 +98,15 @@
 				"binaries": {
 					"linux-x86_64": {
 						"url": "http://github.com/smallstepman/dfx-extensions/releases/download/exa-0.1.1/exa-0.1.1-linux-x86_64.tar.gz",
-						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
+						"sha256": "dd33b046f34e723a797eb2728b899b01407b02e9f4def803ba1b61a582b3873e"
 					},
 					"macos-x86_64": {
 						"url": "http://github.com/smallstepman/dfx-extensions/releases/download/exa-0.1.1/exa-0.1.1-macos-x86_64.tar.gz",
-						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
+						"sha256": "dd33b046f34e723a797eb2728b899b01407b02e9f4def803ba1b61a582b3873e"
 					},
 					"macos-aarch64": {
 						"url": "http://github.com/smallstepman/dfx-extensions/releases/download/exa-0.1.1/exa-0.1.1-macos-aarch64.tar.gz",
-						"sha256": "0a14950756da380de2a63cdba8e97bce4bef5b6d2e98c21e35c10fe452266036"
+						"sha256": "dd33b046f34e723a797eb2728b899b01407b02e9f4def803ba1b61a582b3873e"
 					}
 				}
 			}
