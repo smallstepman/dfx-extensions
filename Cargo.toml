@@ -5,7 +5,8 @@ members = [
 ]
 
 [workspace.dependencies]
-dfx-core = { git = "https://github.com/dfinity/sdk", branch = "master" }
+dfx-core = "0.0.1"
+# dfx-core = { git = "https://github.com/dfinity/sdk", rev = "7d6a2c7" }
 
 # Config for 'cargo dist'
 [workspace.metadata.dist]
