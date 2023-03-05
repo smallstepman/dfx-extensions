@@ -6,7 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-dfx-core = { git = "https://github.com/dfinity/sdk", branch = "master" }
+dfx-core.workspace = true
 tokio = { version = "1.23.1", features = ["full"] }
 clap = { version = "3.1.6", features = [ "derive", "env" ] }
 anyhow = "1.0.56"

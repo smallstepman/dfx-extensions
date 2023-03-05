@@ -6,8 +6,8 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-dfx-core = { path = "/Users/mnl//Desktop/sdk_core/src/dfx-core" }
-dfx = { path = "/Users/mnl//Desktop/sdk_core/src/dfx" }
+dfx-core.workspace = true
+# dfx = { path = "/Users//Desktop/sdk_core/src/dfx" }
 tokio = { version = "1.23.1", features = ["full"] }
 clap = { version = "3.1.6", features = [ "derive", "env" ] }
 anyhow = "1.0.56"

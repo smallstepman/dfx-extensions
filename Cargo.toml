@@ -3,3 +3,6 @@ members = [
     "sns",
     "nns",
 ]
+
+[workspace.dependencies]
+dfx-core = { git = "https://github.com/dfinity/sdk", branch = "master" }
