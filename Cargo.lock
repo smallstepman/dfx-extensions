@@ -1721,6 +1721,39 @@ dependencies = [
 ]
 
 [[package]]
+name = "my_project_A72"
+version = "0.1.3"
+dependencies = [
+ "anyhow",
+ "clap",
+ "dfx-core",
+ "flate2",
+ "fn-error-context",
+ "futures-util",
+ "reqwest",
+ "slog",
+ "tempfile",
+ "tokio",
+]
+
+[[package]]
+name = "my_project_B72"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "backoff",
+ "clap",
+ "dfx-core",
+ "flate2",
+ "fn-error-context",
+ "futures-util",
+ "ic-agent",
+ "ic-utils",
+ "reqwest",
+ "tokio",
+]
+
+[[package]]
 name = "native-tls"
 version = "0.2.11"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1765,23 +1798,6 @@ dependencies = [
  "cfg-if",
  "libc",
  "memoffset",
-]
-
-[[package]]
-name = "nns"
-version = "0.1.0"
-dependencies = [
- "anyhow",
- "backoff",
- "clap",
- "dfx-core",
- "flate2",
- "fn-error-context",
- "futures-util",
- "ic-agent",
- "ic-utils",
- "reqwest",
- "tokio",
 ]
 
 [[package]]
@@ -2851,22 +2867,6 @@ name = "smallvec"
 version = "1.10.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "a507befe795404456341dfab10cef66ead4c041f62b8b11bbb92bffe5d0953e0"
-
-[[package]]
-name = "sns"
-version = "0.1.3"
-dependencies = [
- "anyhow",
- "clap",
- "dfx-core",
- "flate2",
- "fn-error-context",
- "futures-util",
- "reqwest",
- "slog",
- "tempfile",
- "tokio",
-]
 
 [[package]]
 name = "socket2"

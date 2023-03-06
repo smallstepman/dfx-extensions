@@ -6,7 +6,7 @@ members = [
 
 [workspace.package]
 authors = ["DFINITY Team"]
-publish = false
+publish = true
 edition = "2021"
 license = "Apache-2.0"
 repository = "https://github.com/dfinity/dfx-extensions"
