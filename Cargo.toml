@@ -1,7 +1,7 @@
 [workspace]
 members = [
-    "sns",
-    "nns",
+    "my_project_A72",
+    "my_project_B72",
 ]
 
 [workspace.package]

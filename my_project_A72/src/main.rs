@@ -4,7 +4,7 @@ mod commands;
 mod lib;
 
 #[derive(Parser)]
-#[clap(name("dfx"), version = "0.1.0", author = "")]
+#[clap(name("sns"), version = "0.1.0", author = "")]
 struct CliOptions {
     // #[clap(subcommand)]
     #[clap(subcommand)]

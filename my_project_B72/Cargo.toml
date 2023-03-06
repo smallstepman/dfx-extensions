@@ -1,5 +1,5 @@
 [package]
-name = "nns"
+name = "my_project_B72"
 version = "0.1.0"
 authors.workspace = true
 edition.workspace = true

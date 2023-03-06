@@ -1,5 +1,5 @@
 [package]
-name = "sns"
+name = "my_project_A72"
 version = "0.1.3"
 description = "sns-cli wrapper"
 authors.workspace = true
