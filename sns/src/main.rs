@@ -15,5 +15,5 @@ fn main() {
     let options = CliOptions::parse();
     let cmd = options.command;
     commands::exec(cmd);
-    println!("Hello, world!");
+    println!("Hello,, world!");
 }
