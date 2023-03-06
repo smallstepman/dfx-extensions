@@ -7,7 +7,7 @@ members = [
 [workspace.package]
 authors = ["DFINITY Team"]
 # do not publish to crates.io
-publish = false
+publish = true
 edition = "2021"
 license = "Apache-2.0"
 repository = "https://github.com/dfinity/dfx-extensions"
@@ -26,8 +26,6 @@ rust-toolchain-version = "1.65.0"
 ci = ["github"]
 # Target platforms to build apps for (Rust target-triple syntax)
 targets = ["x86_64-unknown-linux-gnu", "x86_64-apple-darwin", "aarch64-apple-darwin"]
-# Specifies whether cargo-dist should ignore this package (it shouldn't). Overrides publish=false
-dist = true
 
 # The profile that 'cargo dist' will build with
 [profile.dist]
@@ -35,4 +33,5 @@ inherits = "release"
 lto = "thin"
 
 [workspace.metadata.release]
+# do not publish to crates.io
 publish = false
