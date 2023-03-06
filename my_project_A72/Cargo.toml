@@ -20,3 +20,13 @@ flate2 = { version = "1.0.11", default-features = false, features = ["zlib-ng"] 
 reqwest = { version = "0.11.9", default-features = false, features = [ "blocking", "json", "rustls-tls", "native-tls-vendored" ] }
 futures-util = "0.3.21"
 slog = { version = "2.5.2", features = ["max_level_trace"] }
+
+[package.metadata.release]
+# do not publish to crates.io
+publish = false
+pre-release-replacements = [
+  {file="CHANGELOG.md", search="Unreleased", replace="{{version}}", min=1},
+  # {file="CHANGELOG.md", search="\\.\\.\\.HEAD", replace="...{{tag_name}}", exactly=1},
+  {file="CHANGELOG.md", search="ReleaseDate", replace="{{date}}", min=1},
+  {file="CHANGELOG.md", search="<!-- next-header -->", replace="<!-- next-header -->\n## [Unreleased] - ReleaseDate\n", exactly=1},
+]

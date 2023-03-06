@@ -1,6 +1,8 @@
 # SNS extension changelog
 
-# Unreleased
+<!-- next-header -->
+
+# [Unreleased] - ReleaseDate
 more setup
 
 # 0.1.6
