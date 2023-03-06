@@ -30,3 +30,6 @@ targets = ["x86_64-unknown-linux-gnu", "x86_64-apple-darwin", "aarch64-apple-dar
 [profile.dist]
 inherits = "release"
 lto = "thin"
+
+[workspace.metadata.release]
+publish = false
